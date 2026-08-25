@@ -1,0 +1,4 @@
+﻿*.bak-*
+.wrangler/
+desktop.ini
+modulhouse14-github-upload.zip
