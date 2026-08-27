@@ -10,5 +10,4 @@ Disallow: /tilda/event*
 Disallow:
 
 
-Sitemap: http://modulhouse14.tilda.ws/sitemap.xml
-Sitemap: http://modulhouse14.tilda.ws/sitemap-store.xml
+Sitemap: https://modulebudhouse.com/sitemap.xml
